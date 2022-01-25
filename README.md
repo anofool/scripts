@@ -1,2 +1,2 @@
-# centos-scripts
-A bunch of usefull Centos scripts
+# Scripts
+A bunch of usefull install scripts
